@@ -1,0 +1,62 @@
+[
+    {
+    "type": "electric_scooter",
+    "imageUrl": "https://i01.appmifile.com/webfile/globalimg/products/m/mi-electric-scooter-3/section1.png",
+    "brand": "Xiaomi",
+    "model": "M365",
+    "pricePerHour": 5,
+    "pricePerDay": 25,
+    "pricePerWeek": 150,
+    "availability": true,
+    "location": "Downtown",
+    "description": "A reliable electric scooter with a 30km range and foldable design."
+},
+{
+    "type": "car",
+    "imageUrl": "https://e7.pngegg.com/pngimages/458/2/png-clipart-toyota-corolla-car-rush-toyota-highlander-toyota-compact-car-sedan.png",
+    "brand": "Toyota",
+    "model": "Camry",
+    "pricePerHour": 15,
+    "pricePerDay": 80,
+    "pricePerWeek": 500,
+    "availability": true,
+    "location": "Airport",
+    "description": "Comfortable sedan with advanced safety features and good fuel efficiency."
+},
+{
+    "type": "bike",
+    "imageUrl": "https://w7.pngwing.com/pngs/1003/481/png-transparent-unicorn-bike-red-honda.png",
+    "brand": "Honda",
+    "model": "CBR 250R",
+    "pricePerHour": 10,
+    "pricePerDay": 60,
+    "pricePerWeek": 350,
+    "availability": true,
+    "location": "City Center",
+    "description": "Sporty bike with a powerful engine, perfect for long rides."
+},
+{
+    "type": "petrol_scooter",
+    "imageUrl": "https://w7.pngwing.com/pngs/588/929/png-transparent-scooter-vespa-gts-piaggio-vespa-sprint-scooter-scooter-motorcycle-piaggio-thumbnail.png",
+    "brand": "Vespa",
+    "model": "Primavera",
+    "pricePerHour": 7,
+    "pricePerDay": 35,
+    "pricePerWeek": 200,
+    "availability": true,
+    "location": "Suburbs",
+    "description": "Classic scooter with a stylish design and efficient performance."
+},
+{
+    "type": "bicycle",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAj4_rSvhAz2kqWYjr2LeJaLHtY5LG7bKsg&s",
+    "brand": "Giant",
+    "model": "Escape 3",
+    "pricePerHour": 2,
+    "pricePerDay": 12,
+    "pricePerWeek": 70,
+    "availability": true,
+    "location": "Park",
+    "description": "Lightweight and durable bicycle, ideal for city commuting and exercise."
+}
+]
